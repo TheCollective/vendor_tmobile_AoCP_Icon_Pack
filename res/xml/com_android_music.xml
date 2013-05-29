@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/app_music">@mipmap/aocp_musicplayer_ic_launcher_musicplayer</item>
+</resource-redirections>

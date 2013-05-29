@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_home">@mipmap/aocp_adw_ic_launcher_home</item>
+	<item name="drawable/adw_config">@mipmap/aocp_adw_config</item>
+</resource-redirections>

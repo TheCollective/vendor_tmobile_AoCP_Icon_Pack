@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_devtools">@mipmap/aocp_ic_launcher_devtools</item>
+</resource-redirections>

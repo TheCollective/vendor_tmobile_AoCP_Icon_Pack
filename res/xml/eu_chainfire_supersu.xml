@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_superandy">@mipmap/aocp_su_ic_launcher_superandy</item>
+    <item name="drawable/ic_launcher_chip">@mipmap/aocp_su_ic_launcher_chip</item>
+    <item name="drawable/ic_launcher_emblem">@mipmap/aocp_su_ic_launcher_emblem</item>
+    <item name="drawable/ic_launcher_original">@mipmap/aocp_su_ic_launcher_original</item>
+    <item name="drawable/ic_launcher_supersu">@mipmap/aocp_su_ic_launcher_supersu</item>
+</resource-redirections>

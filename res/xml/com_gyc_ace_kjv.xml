@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/cross">@mipmap/aocp_kjv_cross</item>
+</resource-redirections>

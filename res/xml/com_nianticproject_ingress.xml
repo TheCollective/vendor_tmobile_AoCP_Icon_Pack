@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resource-redirections>
+    <item name="drawable/app_icon">@mipmap/aocp_igame_app_icon</item>
+</resource-redirections>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_voice_mail">@mipmap/aocp_vvm_ic_voice_mail</item>
+</resource-redirections>

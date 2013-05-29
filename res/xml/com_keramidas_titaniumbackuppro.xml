@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@mipmap/aocp_tibu</item>
+	<item name="drawable/widgetbackground">@drawable/aocp_tibu_widgetbackground</item>
+</resource-redirections>

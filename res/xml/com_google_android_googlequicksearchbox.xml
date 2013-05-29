@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/search_app_icon">@mipmap/aocp_gsearch_search_app_icon</item>
+    <item name="mipmap/ic_launcher_voicesearch">@mipmap/aocp_ic_launcher_voicesearch</item>
+</resource-redirections>

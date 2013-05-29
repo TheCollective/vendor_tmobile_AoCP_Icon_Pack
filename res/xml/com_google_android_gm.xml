@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_mail">@mipmap/aocp_gmail_ic_launcher_mail</item>
+    <item name="mipmap/ic_launcher_shortcut_gmail_label">@mipmap/aocp_gmail_ic_launcher_shortcut_gmail_label</item>
+</resource-redirections>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_app">@mipmap/aocp_palringo_ic_app</item>
+</resource-redirections>

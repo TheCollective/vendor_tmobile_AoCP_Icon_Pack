@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/icon">@mipmap/aocp_chrome_icon</item>
+    <item name="mipmap/app_icon">@mipmap/aocp_chrome_icon</item>
+
+</resource-redirections>

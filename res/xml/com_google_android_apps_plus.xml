@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@mipmap/aocp_gplus_icon</item>
+    <item name="drawable/realtimechat_launcher_icon">@mipmap/aocp_gplus_realtimechat_launcher_icon</item>
+    <item name="mipmap/icon">@mipmap/aocp_gplus_icon</item>
+    <item name="mipmap/realtimechat_launcher_icon">@mipmap/aocp_gplus_realtimechat_launcher_icon</item>
+</resource-redirections>

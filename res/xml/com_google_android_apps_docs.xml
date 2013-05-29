@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/launcher_drive_icon">@mipmap/aocp_launcher_drive_icon</item>
+</resource-redirections>
+
+
+
+
+
+
+
+
+

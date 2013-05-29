@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_home">@mipmap/aocp_nova_ic_launcher_home</item>
+    <item name="drawable/ic_launcher">@mipmap/aocp_nova_ic_launcher_home</item>
+    <item name="drawable/ic_launcher_settings">@mipmap/aocp_nova_ic_launcher_settings</item>
+    <item name="drawable/ic_launcher_wallpaper">@mipmap/aocp_aspire_ic_launcher_wallpaper</item>
+</resource-redirections>
+

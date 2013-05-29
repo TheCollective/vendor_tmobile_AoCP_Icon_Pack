@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_maps">@mipmap/aocp_ic_launcher_maps</item>
+    <item name="mipmap/ic_launcher_maps">@mipmap/aocp_ic_launcher_maps</item>
+    <item name="mipmap/places_icon">@mipmap/aocp_places_icon</item>
+    <item name="mipmap/ic_navigation">@mipmap/aocp_ic_navigation</item>
+</resource-redirections>
