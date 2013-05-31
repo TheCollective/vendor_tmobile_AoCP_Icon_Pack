@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-        <item name="drawable/file_manager_r">@mipmap/aocp_file_manager_r</item>
+    <!-- icon -->
+    <item name="drawable/file_manager_r">@mipmap/aocp_file_manager_r</item>
+	<item name="drawable/re_icon">@mipmap/aocp_file_manager_r</item>
+	<!-- drawables -->
+	<item name="drawable/android">@drawable/aocp_rootexplorer_android</item>
+	<item name="drawable/browser">@drawable/aocp_rootexplorer_browser</item>
+	<item name="drawable/btn_check_buttonless_off">@drawable/aocp_rootexplorer_btn_check_buttonless_off</item>
+	<item name="drawable/btn_check_buttonless_on">@drawable/aocp_rootexplorer_btn_check_buttonless_on</item>
+	<item name="drawable/camera">@drawable/aocp_rootexplorer_camera</item>
+	<item name="drawable/database">@drawable/aocp_rootexplorer_database</item>
+	<item name="drawable/default2">@drawable/aocp_rootexplorer_default2</item>
+	<item name="drawable/excel_icon1">@drawable/aocp_rootexplorer_excel_icon1</item>
+	<item name="drawable/folder">@drawable/aocp_rootexplorer_folder</item>
+	<item name="drawable/gallery">@drawable/aocp_rootexplorer_gallery</item>
+	<item name="drawable/home">@drawable/aocp_rootexplorer_home</item>
+	<item name="drawable/music">@drawable/aocp_rootexplorer_music</item>
+	<item name="drawable/notes">@drawable/aocp_rootexplorer_notes</item>
+	<item name="drawable/pdf_icon">@drawable/aocp_rootexplorer_pdf_icon</item>
+	<item name="drawable/powerpoint_icon1">@drawable/aocp_rootexplorer_powerpoint_icon1</item>
+	<item name="drawable/settings">@drawable/aocp_rootexplorer_settings</item>
+	<item name="drawable/video_camera">@drawable/aocp_rootexplorer_video_camera</item>
+	<item name="drawable/video_player">@drawable/aocp_rootexplorer_video_player</item>
+	<item name="drawable/word_icon1">@drawable/aocp_rootexplorer_word_icon1</item>
+	<item name="drawable/zip_icon">@drawable/aocp_rootexplorer_zip_icon</item>
 </resource-redirections>
