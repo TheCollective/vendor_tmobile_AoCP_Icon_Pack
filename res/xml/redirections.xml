@@ -106,11 +106,13 @@
 	<package-redirections android:name="com.android.wallpaper.livepicker" android:resource="@xml/com_android_wallpaper_livepicker" android:minSdkVersion="16" />
 	<package-redirections android:name="com.ms.screencastfree" android:resource="@xml/com_ms_screencastfree" android:minSdkVersion="16" />
 	<package-redirections android:name="org.openintents.filemanager" android:resource="@xml/org_openintents_filemanager" android:minSdkVersion="16" />
-        <package-redirections android:name="bob.clock" android:resource="@xml/bob_clock" android:minSdkVersion="16" />
-        <package-redirections android:name="com.s0up.goomanager" android:resource="@xml/com_s0up_goomanager" android:minSdkVersion="16" />
+    <package-redirections android:name="bob.clock" android:resource="@xml/bob_clock" android:minSdkVersion="16" />
+    <package-redirections android:name="com.s0up.goomanager" android:resource="@xml/com_s0up_goomanager" android:minSdkVersion="16" />
 	<package-redirections android:name="com.schiztech.swapps" android:resource="@xml/com_schiztech_swapps" android:minSdkVersion="16" />
 	<package-redirections android:name="com.expedia.bookings" android:resource="@xml/com_expedia_bookings" android:minSdkVersion="16" />
 	<package-redirections android:name="com.hulu.plus" android:resource="@xml/com_hulu_plus" android:minSdkVersion="16" />
 	<package-redirections android:name="com.evernote" android:resource="@xml/com_evernote" android:minSdkVersion="16" />
 	<package-redirections android:name="flipboard.app" android:resource="@xml/flipboard_app" android:minSdkVersion="16" />
+	<package-redirections android:name="com.incredicontrol" android:resource="@xml/com_incredicontrol" android:minSdkVersion="16" />
+	<package-redirections android:name="com.teamkang.fauxsound" android:resource="@xml/com_teamkang_fauxsound" android:minSdkVersion="16" />
 </theme-redirections>
