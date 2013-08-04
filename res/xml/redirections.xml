@@ -119,5 +119,8 @@
 	<package-redirections android:name="org.zooper.zwfree" android:resource="@xml/org_zooper_zwfree" android:minSdkVersion="16" />
 	<package-redirections android:name="org.zooper.zwpro" android:resource="@xml/org_zooper_zwpro" android:minSdkVersion="16" />
 	<package-redirections android:name="com.paranoid.halo" android:resource="@xml/com_paranoid_halo" android:minSdkVersion="16" />
+	<package-redirections android:name="net.micode.soundrecorder" android:resource="@xml/net_micode_soundrecorder" android:minSdkVersion="16" />
+    <!-- 4.3 updates -->
+	<package-redirections android:name="com.android.dialer" android:resource="@xml/com_android_dialer" android:minSdkVersion="16" />
 </theme-redirections>
 
