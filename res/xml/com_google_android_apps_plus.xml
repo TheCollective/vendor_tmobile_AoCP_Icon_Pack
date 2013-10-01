@@ -4,4 +4,6 @@
     <item name="drawable/realtimechat_launcher_icon">@mipmap/aocp_gplus_realtimechat_launcher_icon</item>
     <item name="mipmap/icon">@mipmap/aocp_gplus_icon</item>
     <item name="mipmap/realtimechat_launcher_icon">@mipmap/aocp_gplus_realtimechat_launcher_icon</item>
+    <item name="mipmap/photos_icon">@mipmap/aocp_photos_icon</item>
+
 </resource-redirections>
